@@ -1,6 +1,6 @@
 from numpy import array, full, empty
 
-# Augmented Matrices
+# System of Equations
 A = array([[4, 1, 2, -1],
            [3, 6, -1, 2],
            [2, -1, 5, -3],

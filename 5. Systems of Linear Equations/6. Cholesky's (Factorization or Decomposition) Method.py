@@ -52,7 +52,7 @@ def solveCholesky(A, B):
     return X
 
 
-# Augmented Matrices
+# System of Equations
 
 A = array([[ 6,  15,  55],
            [15,  55, 225],

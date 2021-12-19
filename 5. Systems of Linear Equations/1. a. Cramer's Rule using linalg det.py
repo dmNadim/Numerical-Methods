@@ -22,7 +22,7 @@ B = array(colB)
 print()
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 '''
-# Augmented Matrices
+# System of Equations
 
 A = array([[.3, .52, 1],
            [.5, 1, 1.9],

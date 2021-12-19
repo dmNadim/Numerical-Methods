@@ -1,7 +1,7 @@
 from numpy import array, linalg, dot
 from scipy.linalg import lu
 
-# Augmented Matrices
+# System of Equations
 A = array([[3,  -.1, -.2],
            [.1,  7,  -.3],
            [.3, -.2, 10]], float)

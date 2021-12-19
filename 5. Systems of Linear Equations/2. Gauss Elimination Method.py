@@ -39,7 +39,7 @@ B = array(colB, float)
 print()
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 '''
-# Augmented Matrices
+# System of Equations
 '''
 A = array([[ 3, -.1, -.2],
            [.1,   7, -.3],

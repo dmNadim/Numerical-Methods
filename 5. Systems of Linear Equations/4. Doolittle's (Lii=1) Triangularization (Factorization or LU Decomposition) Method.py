@@ -53,7 +53,7 @@ def solveLU(A, B):
     return X
 
 
-# Augmented Matrices
+# System of Equations
 
 A = array([[3,  -.1, -.2],
            [.1,  7,  -.3],
